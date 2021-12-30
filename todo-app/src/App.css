@@ -1,0 +1,42 @@
+.cont{
+    padding:10px 0;
+}
+
+.header{
+    margin: 10px 0 !important;
+    background-color: tomato;
+    text-align: center;
+    padding:20px 0;
+    border-radius: 10px 10px 0 0;
+}
+
+.form .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    width: 100% !important;
+}
+.grid-box{
+    margin:5px 0 !important;
+}
+.body{
+    margin: 10px 0 !important;
+    height: 50vh;
+}
+
+/* todo display component styling */
+.todo-disp{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.disp-box{
+    width: 30%;
+    margin:10px 0;
+    background-color: tomato;
+    color:#fff;
+}
+.btn-cancel{
+    margin-top:10.5px !important;
+    height: 50px;
+    width: 20px;
+}
